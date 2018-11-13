@@ -1,2 +1,2 @@
-# mywebsite
-Demo website for student school project. yay
+# Saltybaguette
+Let's enjoy a saltybaguette....
