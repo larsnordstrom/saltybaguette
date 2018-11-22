@@ -1,0 +1,29 @@
+{
+  "name": "saltybaguette",
+  "version": "1.0.0",
+  "description": "The site about a saltybaguette",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larsnordstrom/saltybaguette.git"
+  },
+  "keywords": [
+    "Salty",
+    "baguette",
+    "bootstrap"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larsnordstrom/saltybaguette/issues"
+  },
+  "homepage": "https://github.com/larsnordstrom/saltybaguette#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.5"
+  }
+}
